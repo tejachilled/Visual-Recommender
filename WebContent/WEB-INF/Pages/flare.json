@@ -1,0 +1,42 @@
+
+  
+  {
+   "name": "vis",
+   "children": [
+    {
+     "name": "Votes",
+     "children": [
+      {"name": "200", "size": 200,"url":"1"},
+      {"name": "500", "size": 500,"url":"2"},
+      {"name": "300", "size": 300,"url":"3"},
+      {"name": "400", "size": 400,"url":"4"}
+    
+     ]
+    },
+  
+   
+    
+    {
+     "name": "Reputation", 
+     "children": [
+      {"name": "200", "size": 200},
+      {"name": "500", "size": 500},
+      {"name": "300", "size": 300},
+      {"name": "400", "size": 400}
+     ]
+    },
+    {
+     "name": "Accepted Answer",
+     "children": [
+      
+      {
+       "name": "encoder",
+       "children": [
+        {"name": "Accepted Answer", "size": 500}
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ 
